@@ -1,1 +1,1 @@
-BOJ alogorithm
+BOJ algorithm
