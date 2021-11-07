@@ -43,6 +43,8 @@ public class Main {
         }
     }
 
+    
+
     public static void bfs(int b) {
         Queue<Integer> queue = new LinkedList<Integer>();
         queue.add(b);
