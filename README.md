@@ -1,1 +1,1 @@
-# algorithm with c++ or Java
+# algorithm Java
